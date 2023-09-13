@@ -1,6 +1,6 @@
 # Superstore-Report-PowerBi
 
-# Sales and Profit Insights
+## Sales and Profit Insights
 
 ## Highest Sum of Profit by Segment:
 - **Consumer Segment:** $134,119.21 (46.83%)
